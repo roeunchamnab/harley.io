@@ -3,9 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>X-RATE | LOGIN</title>
+	
+	<title>Document</title>
 </head>
 <body>
-	<div class=""></div>
+	
 </body>
 </html>
